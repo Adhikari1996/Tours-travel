@@ -1,1 +1,1 @@
-This is Travel-Tours website which is built on sass preprocessor scripting language.In this project uses new modern feature of CSS and to organize all of these new files, you're going to use what is known as the 7-1 file system with fully responsive.
+This is Travel-Tours website which is built on sass preprocessor scripting language.In this project uses new modern feature of CSS and to organize all of these new files, you're going to use what is known as the 7-1 file system with fully responsive also this is single page application.
